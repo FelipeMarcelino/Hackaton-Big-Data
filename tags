@@ -6,9 +6,9 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
-FILE_PATH	submissao/submissao_127423741.py	/^FILE_PATH = 'equipe_137423741.zip'$/;"	v
-POST_DATA	submissao/submissao_127423741.py	/^POST_DATA = {$/;"	v
-URL	submissao/submissao_127423741.py	/^URL = 'https:\/\/hackathon-batalha-final.s3.amazonaws.com\/'$/;"	v
-check_file_exists	submissao/submissao_127423741.py	/^def check_file_exists(file_path):$/;"	f
-status_code	submissao/submissao_127423741.py	/^    status_code = upload_file(FILE_PATH)$/;"	v
-upload_file	submissao/submissao_127423741.py	/^def upload_file(file_path):$/;"	f
+FILE_PATH	submissao/submissao.py	/^FILE_PATH = 'equipe_137423741.zip'$/;"	v
+POST_DATA	submissao/submissao.py	/^POST_DATA = {$/;"	v
+URL	submissao/submissao.py	/^URL = 'https:\/\/hackathon-batalha-final.s3.amazonaws.com\/'$/;"	v
+check_file_exists	submissao/submissao.py	/^def check_file_exists(file_path):$/;"	f
+status_code	submissao/submissao.py	/^    status_code = upload_file(FILE_PATH)$/;"	v
+upload_file	submissao/submissao.py	/^def upload_file(file_path):$/;"	f
