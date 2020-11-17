@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+FILE_PATH	submissao.py	/^FILE_PATH = 'equipe_137423741.zip'$/;"	v
+POST_DATA	submissao.py	/^POST_DATA = {$/;"	v
+URL	submissao.py	/^URL = 'https:\/\/hackathon-batalha-final.s3.amazonaws.com\/'$/;"	v
+check_file_exists	submissao.py	/^def check_file_exists(file_path):$/;"	f
+pd	projeto/results/join_best_results.py	/^import pandas as pd$/;"	I
+status_code	submissao.py	/^    status_code = upload_file(FILE_PATH)$/;"	v
+sub	projeto/results/join_best_results.py	/^sub = pd.DataFrame(columns=["cod_loja","faturamento","jan","fev","mar"])$/;"	v
+sub_1_v1	projeto/results/join_best_results.py	/^sub_1_v1 = pd.read_csv(".\/sub_1_v1.csv") # jan: $/;"	v
+sub_1_v2	projeto/results/join_best_results.py	/^sub_1_v2 = pd.read_csv(".\/sub_1_v2.csv")$/;"	v
+sub_2_v1	projeto/results/join_best_results.py	/^sub_2_v1 = pd.read_csv(".\/sub_2_v1.csv") # jan: 1691359541.0418816, fev: 1344249711.646313, mar/;"	v
+sub_2_v2	projeto/results/join_best_results.py	/^sub_2_v2 = pd.read_csv(".\/sub_2_v2.csv") # jan: 1669822217.8894515, fev: 1316782751.9076555, ma/;"	v
+sub_2_v3	projeto/results/join_best_results.py	/^sub_2_v3 = pd.read_csv(".\/sub_2_v3.csv") # jan: 1651296854.322644 , fev: 1323600494.1822453, ma/;"	v
+upload_file	submissao.py	/^def upload_file(file_path):$/;"	f
