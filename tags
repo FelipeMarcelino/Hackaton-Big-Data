@@ -10,7 +10,10 @@ FILE_PATH	submissao.py	/^FILE_PATH = 'equipe_137423741.zip'$/;"	v
 POST_DATA	submissao.py	/^POST_DATA = {$/;"	v
 URL	submissao.py	/^URL = 'https:\/\/hackathon-batalha-final.s3.amazonaws.com\/'$/;"	v
 check_file_exists	submissao.py	/^def check_file_exists(file_path):$/;"	f
+cod_loja	test_rapido.py	/^cod_loja = list(des["cod_loja"].values)$/;"	v
+des	test_rapido.py	/^des = pd.read_csv(".\/desafio_2.csv",sep=";")$/;"	v
 pd	projeto/results/join_best_results.py	/^import pandas as pd$/;"	I
+pd	test_rapido.py	/^import pandas as pd$/;"	I
 status_code	submissao.py	/^    status_code = upload_file(FILE_PATH)$/;"	v
 sub	projeto/results/join_best_results.py	/^sub = pd.DataFrame(columns=["cod_loja","faturamento","jan","fev","mar"])$/;"	v
 sub_1_v1	projeto/results/join_best_results.py	/^sub_1_v1 = pd.read_csv(".\/sub_1_v1.csv") # jan: $/;"	v
